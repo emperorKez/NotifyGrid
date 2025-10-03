@@ -35,6 +35,7 @@
 ```bash
 git clone https://github.com/emperorkez/NotifyGrid.git
 cd NotifyGrid
+```
 
 ---
 
